@@ -1,0 +1,64 @@
+1 - npm install
+
+2 - npm run android
+
+design : design.png
+
+مفاهیم
+View
+Text
+Image
+Pressable
+SafeAreaView
+StatusBar
+StyleSheet
+
+Functional Component
+
+Conditional Rendering --> ```code : {isPlaying ? "Pause" : "Play"} ```
+
+State :
+	useState
+	تغییر state
+	re-render شدن کامپوننت بعد از تغییر state
+
+Props:
+	انتقال داده از کامپوننت والد به فرزند
+	Props برای ارتباط بین parent و child
+
+FlatList:
+	رندر داینامیک داده
+	نمایش لیست از روی data
+
+
+کامپونت ها
+CategoryCard.jsx
+CategoryList.jsx
+MiniPlayer.jsx
+SearchBar.jsx
+TopSongCard.jsx
+TopSongList.jsx
+
+استایل
+flex
+flexDirection
+alignItems
+justifyContent
+padding
+margin
+borderRadius
+backgroundColor
+fontSize
+fontWeight
+
+رویداد ها
+onPress
+onChangeText
+
+
+ثابت ها برنامه
+colors.js --> برای یکدست بودن رنگ ها ایجاد یکپارچی و راحتی در ایجاد تغییر در رنگ برنامه
+
+داده ها
+categories.js --> اطلاعات دسته بندی موزیک ها در برنامه
+topSongs.js --> اطلاعا موزیک ها برتر برای قسمت لیست موزیک ها برتر برنامه
