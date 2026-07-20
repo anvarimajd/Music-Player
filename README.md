@@ -1,6 +1,8 @@
+<div align="center">
+
+
 # 🎵 Music Player
 
-<div align="center">
 
 ### اپلیکیشن مدرن پخش موسیقی با React Native و Expo
 
