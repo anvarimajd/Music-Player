@@ -373,9 +373,6 @@ npm install
 
 <div align="center">
 
-# 👨‍💻 توسعه‌دهنده
-
-## Mahdi Mirbagheri
 
 **React Native Developer**
 
