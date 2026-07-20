@@ -1,6 +1,8 @@
+<div align="center">
+
+
 # 🎵 Music Player
 
-<div align="center">
 
 ### اپلیکیشن مدرن پخش موسیقی با React Native و Expo
 
@@ -371,9 +373,6 @@ npm install
 
 <div align="center">
 
-# 👨‍💻 توسعه‌دهنده
-
-## Mahdi Mirbagheri
 
 **React Native Developer**
 
